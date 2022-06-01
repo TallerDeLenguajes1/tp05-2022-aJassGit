@@ -97,7 +97,7 @@ namespace TP05
             double minor = Math.Min(num1, num2);
             Console.WriteLine("El numero " + minor + " es el menor de los dos");
 
-            double maxim = Math.Min(num1, num2);
+            double maxim = Math.Max(num1, num2);
             Console.WriteLine("El numero " + maxim + " es el mayor de los dos");
         }
     }
