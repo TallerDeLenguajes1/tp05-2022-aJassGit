@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\tp05-2022-aJassGit\\tp05-2022-aJassGit.csproj": {}
+    "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\repos\\tp05-2022-aJassGit\\tp05-2022-aJassGit.csproj": {
+    "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\Calculadora.csproj",
-        "projectName": "tp05-2022-aJassGit",
+        "projectName": "Calculadora",
         "projectPath": "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
         "outputPath": "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\obj\\",
