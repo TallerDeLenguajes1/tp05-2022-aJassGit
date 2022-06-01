@@ -7,11 +7,11 @@
     "C:\\repos\\tp05-2022-aJassGit\\tp05-2022-aJassGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\tp05-2022-aJassGit\\tp05-2022-aJassGit.csproj",
+        "projectUniqueName": "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\Calculadora.csproj",
         "projectName": "tp05-2022-aJassGit",
-        "projectPath": "C:\\repos\\tp05-2022-aJassGit\\tp05-2022-aJassGit.csproj",
+        "projectPath": "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\tp05-2022-aJassGit\\obj\\",
+        "outputPath": "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alan\\AppData\\Roaming\\NuGet\\NuGet.Config"
