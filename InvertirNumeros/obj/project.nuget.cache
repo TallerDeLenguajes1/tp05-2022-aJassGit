@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WjYbMwvcLoAqQtZfctFmCCE4qPVSULYf8SpuINvOP3l0dwnq1bhMxu2grQm6CAcUDNycSkqWS3+vp6ibfjIbWQ==",
+  "dgSpecHash": "/MK4PZRxgapBtNhABpjNFByO/2PVOl+WfhWeEp9QjK2cs1MJh+oQtX7p8DeFFkp5IMG4QAZ97me3fZNTHln2/w==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\tp05-2022-aJassGit\\tp05\\tp05.csproj",
+  "projectFilePath": "C:\\repos\\tp05-2022-aJassGit\\InvertirNumeros\\tp05.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

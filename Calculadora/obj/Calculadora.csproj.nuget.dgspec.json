@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\tp05-2022-aJassGit\\InvertirNumeros\\tp05.csproj": {}
+    "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\repos\\tp05-2022-aJassGit\\InvertirNumeros\\tp05.csproj": {
+    "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\tp05-2022-aJassGit\\InvertirNumeros\\tp05.csproj",
-        "projectName": "tp05",
-        "projectPath": "C:\\repos\\tp05-2022-aJassGit\\InvertirNumeros\\tp05.csproj",
+        "projectUniqueName": "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\Calculadora.csproj",
+        "projectName": "Calculadora",
+        "projectPath": "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\tp05-2022-aJassGit\\InvertirNumeros\\obj\\",
+        "outputPath": "C:\\repos\\tp05-2022-aJassGit\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alan\\AppData\\Roaming\\NuGet\\NuGet.Config"
