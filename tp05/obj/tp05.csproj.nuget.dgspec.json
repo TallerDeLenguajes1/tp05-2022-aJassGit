@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\tp05-2022-aJassGit\\tp05\\tp05.csproj": {}
+    "C:\\Repos\\tp05-2022-aJassGit\\tp05\\tp05.csproj": {}
   },
   "projects": {
-    "C:\\repos\\tp05-2022-aJassGit\\tp05\\tp05.csproj": {
+    "C:\\Repos\\tp05-2022-aJassGit\\tp05\\tp05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\tp05-2022-aJassGit\\tp05\\tp05.csproj",
+        "projectUniqueName": "C:\\Repos\\tp05-2022-aJassGit\\tp05\\tp05.csproj",
         "projectName": "tp05",
-        "projectPath": "C:\\repos\\tp05-2022-aJassGit\\tp05\\tp05.csproj",
+        "projectPath": "C:\\Repos\\tp05-2022-aJassGit\\tp05\\tp05.csproj",
         "packagesPath": "C:\\Users\\Alan\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\tp05-2022-aJassGit\\tp05\\obj\\",
+        "outputPath": "C:\\Repos\\tp05-2022-aJassGit\\tp05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alan\\AppData\\Roaming\\NuGet\\NuGet.Config"
