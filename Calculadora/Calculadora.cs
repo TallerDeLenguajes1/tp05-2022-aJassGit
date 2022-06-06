@@ -25,30 +25,37 @@ namespace TP05
                 Console.WriteLine("Ingrese el segundo número a operar");
                 String SecNum = Console.ReadLine();
                 double SegdoNum = Convert.ToDouble(SecNum);
-                
-                double valor_absoluto = Math.Abs(PrimNum);
-                Console.WriteLine("Valor absoluto: " + valor_absoluto);
 
-                double cuadrado = Math.Exp(PrimNum);
-                Console.WriteLine("Cuadrado: " + cuadrado);
+                Console.WriteLine("¿Desea obtener calculos matematicos?");
+                Console.WriteLine("Si = 1, No = 2");
+                String math_calc = Console.ReadLine();
+                int opcional = Convert.ToInt32(math_calc);
+                if(opcional == 1)
+                {
+                    double valor_absoluto = Math.Abs(PrimNum);
+                    Console.WriteLine("Valor absoluto de " + PrimNum + ": " + valor_absoluto);
 
-                double raiz_cuadrada = Math.Sqrt(PrimNum);
-                Console.WriteLine("Raiz Cuadrada: " + raiz_cuadrada);
+                    double cuadrado = Math.Exp(PrimNum);
+                    Console.WriteLine("Cuadrado de " + PrimNum + ": " + cuadrado);
 
-                double sen = Math.Sin(PrimNum);
-                Console.WriteLine("Seno: " + sen);
-                
-                double cos = Math.Cos(PrimNum);
-                Console.WriteLine("Coseno: " + cos);
+                    double raiz_cuadrada = Math.Sqrt(PrimNum);
+                    Console.WriteLine("Raiz Cuadrada " + PrimNum + ": " + raiz_cuadrada);
 
-                int entero = (int)Math.Round(PrimNum);
-                Console.WriteLine("Redondeado a entero: " + entero);
+                    double sen = Math.Sin(PrimNum);
+                    Console.WriteLine("Seno " + PrimNum + ": " + sen);
+                    
+                    double cos = Math.Cos(PrimNum);
+                    Console.WriteLine("Coseno " + PrimNum + ": " + cos);
 
-                double minor = Math.Min(PrimNum, SegdoNum);
-                Console.WriteLine("El numero " + minor + " es el menor de los dos");
+                    int entero = (int)Math.Round(PrimNum);
+                    Console.WriteLine("Redondeado a entero " + PrimNum + ": " + entero);
 
-                double maxim = Math.Max(PrimNum, SegdoNum);
-                Console.WriteLine("El numero " + maxim + " es el mayor de los dos");
+                    double minor = Math.Min(PrimNum, SegdoNum);
+                    Console.WriteLine("El numero " + minor + " es el menor de los dos");
+
+                    double maxim = Math.Max(PrimNum, SegdoNum);
+                    Console.WriteLine("El numero " + maxim + " es el mayor de los dos");
+                }
 
                 double resultado;
                 if (opcion == 1)
@@ -77,7 +84,6 @@ namespace TP05
                 new_calc = Convert.ToInt32(nuevo_calc);
                 if(new_calc == 2 || new_calc == 2)
                 {
-                    
                     Console.WriteLine("A continuación se cerrara el programa");
                 }
             }while(new_calc == 1 || new_calc == 1);
